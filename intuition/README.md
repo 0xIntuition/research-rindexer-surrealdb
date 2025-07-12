@@ -1,0 +1,3 @@
+- `curl -L https://rindexer.xyz/install.sh | bash`
+- Update rpc url in `rindexer.yaml`
+- `rindexer start all`
